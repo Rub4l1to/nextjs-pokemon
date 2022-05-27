@@ -32,4 +32,3 @@ $ yarn start / npm run start
 
 Have a look through existing [Issues](https://github.com/Rub4l1to/nextjs-pokemon/issues) and [Pull Requests](https://github.com/Rub4l1to/nextjs-pokemon/pulls) that you could help with. If you'd like to request a feature or report a bug, please [create a GitHub Issue](https://github.com/Rub4l1to/nextjs-pokemon/issues) using one of the templates provided.
 
-[See contribution guide →](https://github.com/Rub4l1to/nextjs-pokemon/blob/main/CONTRIBUTING.md)
