@@ -1,0 +1,6 @@
+.navbar {
+  display: flex;
+  inline-size: 100%;
+  align-items: center;
+  padding: 12px 24px;
+}
