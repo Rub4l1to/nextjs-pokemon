@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Pokemon api static",
   "private": false,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
