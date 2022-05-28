@@ -2,7 +2,7 @@ import { AxiosResponse } from "axios";
 import type { NextPage, GetStaticProps } from "next";
 
 //* Axios
-import { pokeApi } from "@/api/index";
+import { pokeApi } from "../api/index";
 
 //* Interfaces
 import { PokemonListResponse, SmallPokemon } from "@/interfaces/index";
